@@ -1,0 +1,10 @@
+G:\UKK\CRUD_Barang\CRUD_Barang\bin\Debug\db_barang.accdb
+G:\UKK\CRUD_Barang\CRUD_Barang\bin\Debug\CRUD_Barang.exe.config
+G:\UKK\CRUD_Barang\CRUD_Barang\bin\Debug\CRUD_Barang.exe
+G:\UKK\CRUD_Barang\CRUD_Barang\bin\Debug\CRUD_Barang.pdb
+G:\UKK\CRUD_Barang\CRUD_Barang\obj\Debug\CRUD_Barang.csprojAssemblyReference.cache
+G:\UKK\CRUD_Barang\CRUD_Barang\obj\Debug\CRUD_Barang.Form1.resources
+G:\UKK\CRUD_Barang\CRUD_Barang\obj\Debug\CRUD_Barang.Properties.Resources.resources
+G:\UKK\CRUD_Barang\CRUD_Barang\obj\Debug\CRUD_Barang.csproj.GenerateResource.cache
+G:\UKK\CRUD_Barang\CRUD_Barang\obj\Debug\CRUD_Barang.exe
+G:\UKK\CRUD_Barang\CRUD_Barang\obj\Debug\CRUD_Barang.pdb
